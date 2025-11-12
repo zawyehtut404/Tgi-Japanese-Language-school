@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "navbar": {
     "home": "Home",
@@ -60,4 +61,29 @@
       }
     ]
   }
+=======
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "language": "Language",
+  "home": {
+    "welcome": "Welcome to Royal Myanmar Travels",
+    "tagline": "Experience the Golden Land with our exclusive tours.",
+    "explore_button": "Explore Our Tours",
+    "featured_tours_title": "Our Featured Tours",
+    "featured_tours_subtitle": "Handpicked tours for an unforgettable experience.",
+    "stats_packages": "Tour Packages",
+    "stats_destinations": "Destinations",
+    "stats_clients": "Happy Clients",
+    "testimonials_title": "What Our Customers Say",
+    "cta_title": "Ready For Your Unforgettable Journey?",
+    "cta_subtitle": "Let us help you plan the trip of a lifetime. Contact us today!",
+    "cta_button": "Contact Us Now"
+  }
+>>>>>>> c17307b46737cf29427a86791f87850f5f51a493
 }
