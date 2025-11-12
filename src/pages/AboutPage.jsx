@@ -6,16 +6,16 @@ function AboutPage() {
   return (
     <>
       <Helmet>
-        <title>About Us | Royal Myanmar Travels</title>
-        <meta name="description" content="Learn about the mission and values of Royal Myanmar Travels. Your trusted partner in exploring the Golden Land of Myanmar." />
+        <title>About Us | TGi Japanese Language School</title>
+        <meta name="description" content="Learn about the mission and values of TGi Japanese Language School. Your trusted partner in exploring the Japanese language and culture." />
       </Helmet>
 
       <div className="bg-white text-gray-800">
         {/* Page Header */}
         <section className="bg-gray-100 py-16 text-center">
           <div className="container mx-auto px-6">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900">About Royal Myanmar Travels</h1>
-            <p className="text-xl text-gray-600 mt-4">Your trusted partner in exploring the Golden Land.</p>
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900">About TGi Japanese Language School</h1>
+            <p className="text-xl text-gray-600 mt-4">Your trusted partner in exploring the Japanese language and culture.</p>
           </div>
         </section>
 
@@ -51,8 +51,8 @@ function AboutPage() {
             <h2 className="text-3xl font-bold text-center mb-12">Why Choose Us?</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Expert Local Guides</h3>
-                <p className="text-gray-600">Our guides are passionate, knowledgeable locals who bring the stories of Myanmar to life.</p>
+                <h3 className="text-xl font-semibold mb-2">Expert Sensei</h3>
+                <p className="text-gray-600">Our Sensei are passionate, knowledgeable locals who bring the stories of Japan to life.</p>
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">Customized Itineraries</h3>

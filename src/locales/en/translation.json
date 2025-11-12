@@ -8,17 +8,56 @@
   },
   "language": "Language",
   "home": {
-    "welcome": "Welcome to Royal Myanmar Travels",
-    "tagline": "Experience the Golden Land with our exclusive tours.",
-    "explore_button": "Explore Our Tours",
-    "featured_tours_title": "Our Featured Tours",
-    "featured_tours_subtitle": "Handpicked tours for an unforgettable experience.",
-    "stats_packages": "Tour Packages",
-    "stats_destinations": "Destinations",
-    "stats_clients": "Happy Clients",
-    "testimonials_title": "What Our Customers Say",
-    "cta_title": "Ready For Your Unforgettable Journey?",
-    "cta_subtitle": "Let us help you plan the trip of a lifetime. Contact us today!",
-    "cta_button": "Contact Us Now"
+    "welcome": "Welcome to TGI Japanese Language School",
+    "tagline": "Experience the overseas with our exclusive services.",
+    "explore_button": "Explore Our Classes",
+    "featured_tours_title": "Our Featured Classes",
+    "featured_tours_subtitle": "Handpicked classes for an unforgettable experience.",
+    "stats_packages": "Successful Trips",       
+    "stats_destinations": "Connected schools",     
+    "stats_clients": "Satisfied Students",     
+    "testimonials_title": "What Our Students Say",
+    "cta_title": "Ready For Your Unforgettable The Future?",
+    "cta_subtitle": "Let us help you brighten your future. Contact us today!",
+    "cta_button": "Contact Us",
+    
+    "testimonials": [ 
+      { 
+        "id": 1, 
+        "quote": "Studying at TGI Japanese Language School has transformed my life. The quality education and support have empowered me to master the Japanese language.", 
+        "name": "John & Jane Doe", 
+        "origin": "Japan" 
+      },
+      { 
+        "id": 2, 
+        "quote": "I highly recommend their services. The tour was well-organized, and we got to see the authentic side of Myanmar. Excellent value for money.", 
+        "name": "Emily White", 
+        "origin": "United Kingdom" 
+      },
+      { 
+        "id": 3, 
+        "quote": "From booking to the final day of our tour, everything was perfect. The team was professional and attentive to all our needs. Thank you!", 
+        "name": "Kenji Tanaka", 
+        "origin": "Japan" 
+      },
+      { 
+        "id": 4, 
+        "quote": "The curriculum is thorough and the teachers are incredibly dedicated. I feel much more confident in speaking Japanese now!", 
+        "name": "David Lee", 
+        "origin": "Korea" 
+      },
+      { 
+        "id": 5, 
+        "quote": "A truly professional and heartwarming school. They made the journey of learning Japanese enjoyable and effective.", 
+        "name": "Jessica Chen", 
+        "origin": "Taiwan" 
+      },
+      { 
+        "id": 6, 
+        "quote": "Excellent institution for anyone serious about learning Japanese. Highly recommended!", 
+        "name": "Alex Smith", 
+        "origin": "USA" 
+      }
+    ]
   }
 }

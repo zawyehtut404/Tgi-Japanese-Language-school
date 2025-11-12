@@ -26,8 +26,8 @@ function ServicesPage() {
       <div className="bg-white">
         <section className="bg-gray-100 py-16 text-center">
           <div className="container mx-auto px-6">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900">Our Tour Packages</h1>
-            <p className="text-xl text-gray-600 mt-4">Find the perfect journey for your Myanmar adventure.</p>
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900">Our Classes Packages</h1>
+            <p className="text-xl text-gray-600 mt-4">Find the perfect journey for your overseas adventure.</p>
           </div>
         </section>
 

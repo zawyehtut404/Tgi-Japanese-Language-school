@@ -26,7 +26,7 @@ function TourDetailPage() {
   return (
     <>
       <Helmet>
-        <title>{tour.name[lang] || tour.name.en} | Royal Myanmar Travels</title>
+        <title>{tour.name[lang] || tour.name.en} | TGi Japanese Language School</title>
         <meta name="description" content={tour.description[lang] || tour.description.en} />
       </Helmet>
 
@@ -46,7 +46,7 @@ function TourDetailPage() {
             
             <div className="mt-12 text-center md:text-left">
               <Link to="/contact" state={{ subject: `Booking Inquiry: ${tour.name.en}` }} className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full">
-                Book This Tour
+                Book This Class
               </Link>
             </div>
           </div>

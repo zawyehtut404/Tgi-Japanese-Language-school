@@ -3,14 +3,14 @@ import { Helmet } from 'react-helmet-async';
 import Lightbox from '../components/Lightbox';
 
 // Import all gallery images
-import baganImg from '../assets/bagan.jpg';
-import inleLakeImg from '../assets/inle-lake.jpg';
-import mandalayImg from '../assets/mandalay.jpg';
-import goldenRockImg from '../assets/golden-rock.jpg';
-import ngapaliImg from '../assets/ngapali.jpg';
-import kalawImg from '../assets/kalaw.jpg';
-import ubeinBridgeImg from '../assets/ubein-bridge.jpg';
-import shwedagonImg from '../assets/shwedagon.jpg';
+import baganImg from '../assets/Gallery_1.jpg';
+import inleLakeImg from '../assets/Gallery_9.jpg';
+import mandalayImg from '../assets/Gallery_10.jpg';
+import goldenRockImg from '../assets/Gallery_4.jpg';
+import ngapaliImg from '../assets/Gallery_5.jpg';
+import kalawImg from '../assets/Gallery_6.jpg';
+import ubeinBridgeImg from '../assets/Gallery_7.jpg';
+import shwedagonImg from '../assets/Gallery_8.jpg';
 
 const images = [
   { id: 1, src: baganImg, alt: 'Temples of Bagan' },
@@ -29,7 +29,7 @@ function GalleryPage() {
   return (
     <>
       <Helmet>
-        <title>Gallery | Royal Myanmar Travels</title>
+        <title>Gallery | TGi Japanese Language School</title>
         <meta name="description" content="A glimpse into the beauty of Myanmar. View photos from our tours of Bagan, Inle Lake, Mandalay, and more." />
       </Helmet>
       

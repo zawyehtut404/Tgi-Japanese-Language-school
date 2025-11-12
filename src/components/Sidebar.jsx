@@ -72,10 +72,10 @@ function Sidebar({ isOpen, closeMenu }) {
                 animate="open"
               >
                 <LinkItem to="/" icon={<FaHome />} text={t('navbar.home')} closeMenu={closeMenu} />
-                <LinkItem to="/about" icon={<FaUserFriends />} text={t('navbar.about')} closeMenu={closeMenu} />
                 <LinkItem to="/services" icon={<FaCog />} text={t('navbar.services')} closeMenu={closeMenu} />
                 <LinkItem to="/gallery" icon={<FaImages />} text={t('navbar.gallery')} closeMenu={closeMenu} />
                 <LinkItem to="/contact" icon={<FaEnvelope />} text={t('navbar.contact')} closeMenu={closeMenu} />
+                <LinkItem to="/about" icon={<FaUserFriends />} text={t('navbar.about')} closeMenu={closeMenu} />
               </motion.nav>
 
               {/* Language Switcher with the fix */}
