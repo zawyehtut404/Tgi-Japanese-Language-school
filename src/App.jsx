@@ -11,6 +11,7 @@ import Sidebar from './components/Sidebar';
 import Loading from './components/Loading';
 import BackToTopButton from './components/BackToTopButton';
 import PageTransition from './components/PageTransition'; // <-- Component အသစ်ကို import လုပ်ပါ
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 // Page Components (Lazy Loaded)
 const HomePage = React.lazy(() => import('./pages/HomePage'));
@@ -65,6 +66,7 @@ function AppContent() {
 function App() {
   return (
     <BrowserRouter>
+    <div></div><SpeedInsights />
       <AppContent />
     </BrowserRouter>
   );

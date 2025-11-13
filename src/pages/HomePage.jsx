@@ -77,13 +77,13 @@ function HomePage() {
               {t('home.welcome')}
             </h1>
             <p className="text-lg md:text-xl mb-8">{t('home.tagline')}</p>
-            <a href="#tours" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-full shadow-lg transition-transform hover:scale-105">
+            <a href="#class" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-full shadow-lg transition-transform hover:scale-105">
               {t('home.explore_button')}
             </a>
           </div>
         </div>
 
-        <section id="tours" className="py-20 bg-gray-50">
+        <section id="class" className="py-20 bg-gray-50">
           <div className="container mx-auto px-6">
             <h2 className="text-3xl font-bold text-center mb-2">{t('home.featured_tours_title')}</h2>
             <p className="text-center text-gray-600 mb-12">{t('home.featured_tours_subtitle')}</p>
